@@ -16,7 +16,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![Linkedin: thaianebraga](https://img.shields.io/badge/-arighna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rajarshi-sinharoy/)](https://www.linkedin.com/in/rajarshi-sinharoy/)
+         <a href="https://www.linkedin.com/in/rajarshi-sinharoy/" target="blank"><img align="center" src="https://similarpng.com/instagram-logo-transparent-png/" alt="Rajarshi_SinhaRoy" height="30" width="40" /></a>
 </p>
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
