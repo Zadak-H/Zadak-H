@@ -1,4 +1,7 @@
-<h1 align="center">Hi ![wave] (wave.gif), I'm Rajarshi SinhaRoy</h1>
+<h1 align="center">Hi,<img src="https://github.com/Zadak-H/Zadak-H/blob/82d617bd8a776c15f6f7205bca3dd8ca392ed469/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Rajarshi SinhaRoy</h1>
 <h3 align="center">Superposition in my own Quantum Field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcerer1supreme&label=Profile%20views&color=0e75b6&style=flat" alt="sourcerer1supreme" /> </p>
