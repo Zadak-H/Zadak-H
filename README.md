@@ -4,8 +4,7 @@
          width="45" /> I'm Rajarshi SinhaRoy</h1>
 <h3 align="center">Superposition in my own Quantum Field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcerer1supreme&label=Profile%20views&color=0e75b6&style=flat" alt="sourcerer1supreme" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zadak-H&label=Profile%20views&color=0e75b6&style=flat" alt="Zadak-H" /> </p>
 
 - 🌱 I’m currently learning **Python, ML, ReactJS, Flutter**
 
@@ -16,7 +15,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-         <a href="https://www.linkedin.com/in/rajarshi-sinharoy/" target="blank"><img align="center" src="https://img.shields.io/badge/-Rajarshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link" alt="Rajarshi_SinhaRoy" height="30" width="40" /></a>
+         <a href="https://www.linkedin.com/in/rajarshi-sinharoy/" target="blank"><img align="center" src="https://img.shields.io/badge/-Rajarshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link" alt="Rajarshi_SinhaRoy" height="30" width="100" /></a>
 </p>
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
