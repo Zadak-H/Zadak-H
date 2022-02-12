@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, ML, ReactJS, Flutter**
 
-- 💬 Ask me about **C, C++, Java, Python, HTML5, CSS3, SQL**
+- 💬 Ask me about **C, C++, Java, Python, HTML5, CSS3, SQL, ML, NLP, Deep Learning**
 
 - 📫 Reach me -> **rajarshi921@gmail.com**
 
